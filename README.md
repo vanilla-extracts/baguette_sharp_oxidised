@@ -13,3 +13,7 @@ After its fairly long come-back from an useless GO project to a real BASED OCaml
 Yes if you did not clued in, oxidised as in `Rust`.
 
 Be prepared...
+
+## Syntax
+The syntax is going to follow the original BaguetteSharp (OCaml version) syntax.
+Eventually there will be a website and a wiki here but in the meantime you can go [here](https://bs.charlotte-thomas.me) to take a look at the syntax.
